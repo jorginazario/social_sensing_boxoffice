@@ -1,5 +1,6 @@
 #Written By: Harry Gebremedhin & Jorge Nazario 
-#Program Crawls Twitter and gets tweets made about movies
+#Program Crawls Twitter and gets tweets made about movies 
+#This will be used for movies that are about to come out
 import tweepy
 import re
 
@@ -16,5 +17,5 @@ def search(queryString, count, api):
                 print (tweet.text.encode("utf-8"))
 
 #some more filtering with the querystring as well 
-def filterTweet(queryString, tweetString):     
+def filterTweet(tweetString):     
         return ' '.join(re.sub("(@[A-Za-z0-9]+)|([^0-9A-Za-z \t]) |(\w+:\/\/\S+)", " ", tweetString).split())
