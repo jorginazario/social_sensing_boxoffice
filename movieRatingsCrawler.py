@@ -23,6 +23,7 @@ def getMovieRatings(movieDict):
     for key in movieDict:
         queryString = URL+movieDict[key]
         info = requests.get(queryString)
+        #if the response is not bad response 
         if (info.status_code == 200):
             #changing text to a json dictionary
             info = json.loads(info.text)
