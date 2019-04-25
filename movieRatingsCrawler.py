@@ -30,8 +30,18 @@ def getMovieRatings(movieDict):
 
             if ("Ratings" in info.keys()):
                 ratings = info["Ratings"]
-                r = len(ratings)-2
-                rT = ratings[r]["Value"] # rotten tomatoes score
+                #based on length of the ratings list rotten tomatoes 
+                if (len(ratings) == 3):
+                    r = len(ratings) - 2
+                    rT = ratings[r]["Value"] # rotten tomatoes score
+                if (len(ratings) == 2):
+                    r = len(ratings) - 1
+                    rT = ratings[r]["Value"] # rotten tomatoes score
+                if (len(ratings) == 1 and ratings[0]["Source"] == "Rotten Tomatoes"):
+                    r = len(ratings) - 1
+                    rT = ratings[r]["Value"] # rotten tomatoes score
+                elif(len(ratings) == 1 and ratings[0]["Source"] != "Rotten Tomatoes"):
+                    rT = "N/A"   
             else:
                 rT = "N/A"
 

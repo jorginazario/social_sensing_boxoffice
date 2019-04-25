@@ -6,7 +6,6 @@ import GetOldTweets3 as got
 import re 
 import json 
 
-
 tweetNum = 1200 #number of tweets per movie
 pbar = ProgressBar() # shows progress bar as the program takes too long
 
