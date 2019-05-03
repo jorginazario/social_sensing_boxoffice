@@ -15,8 +15,8 @@ def getMovieTitles():
         movies = requests.get(URL+number)
         mList = json.loads(movies.text)["results"]
         for instance in mList:
-            ID,title = str(instance["id"]), instance["title"]
-            dictionary[ID] = title
+            ID,title,releaseDate,popularity = str(instance["id"]), instance["title"],str(instance["release_date"]),str(instance["popularity"])
+            dictionary[ID] = (title,releaseDate,popularity)
     return dictionary
 
 #functions that takes the resulting dictionary and writes it to a file
@@ -24,7 +24,7 @@ def writeToFile(dictionary):
     fileName = "movielist.txt"
     outPut = open(fileName, 'w')
     for key in dictionary:
-        outPut.write(str(key+","+dictionary[key]))
+        outPut.write(str(key+","+dictionary[key][0]+","+dictionary[key][1]+","+dictionary[key][2]))
         outPut.write('\n')
     outPut.close()
 

@@ -50,8 +50,10 @@ def getMovieEarning(movieDict):
                     else:
                         #print(filterNum[i])
                         finalRev+= str(filterNum[i])
-
-            earningDict[movieName] = finalRev
+            if (finalRev != ""):
+                earningDict[movieName] = int(finalRev)
+            else:
+                earningDict[movieName] = 0
     return earningDict
 
 def writeToFile(tweetDict):

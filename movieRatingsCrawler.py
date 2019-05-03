@@ -69,7 +69,3 @@ def writeToFile (dictionary):
 movieDict = readMovieList("movielist.txt")
 ratingsDict = getMovieRatings(movieDict)
 writeToFile(ratingsDict)
-
-
-
-
