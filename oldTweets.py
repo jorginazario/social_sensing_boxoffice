@@ -6,7 +6,7 @@ import GetOldTweets3 as got
 import re 
 import json 
 
-tweetNum = 1200 #number of tweets per movie
+tweetNum = 700 #number of tweets per movie
 pbar = ProgressBar() # shows progress bar as the program takes too long
 
 #reads in a movie list and stores in a dictionary
@@ -15,7 +15,7 @@ def readMovieList(fileName):
     File = open(fileName, 'r')
     for line in File:
         lis = line.split(',')
-        movieDict[lis[0]] = lis[1]
+        movieDict[lis[0]] = lis[0]
     return movieDict
 
 def get_tweet_sentiment(tweet): 
@@ -71,7 +71,6 @@ def writeToFile(tweetDict):
     f.write(j)
     f.close()
 
-
-movieDict = readMovieList('movielist.txt')
+movieDict = readMovieList('newFinalMovieRatings.txt')
 tweetDict = organizeTweets(movieDict)
 writeToFile(tweetDict)

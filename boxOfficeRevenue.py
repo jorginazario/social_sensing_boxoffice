@@ -1,6 +1,5 @@
 #Written By: Harry Gebremedhin & Jorge Nazario 
 #Program Crawls box office mojo website to get box office revenue for movie titles
-
 import requests
 import re
 import json
@@ -15,28 +14,29 @@ def readMovieList(fileName):
     File = open(fileName, 'r')
     for line in File:
         lis = line.split(',')
-        movieDict[lis[0]] = lis[1]
+        movieDict[lis[0]] = lis[0]
     return movieDict
 
 def getMovieEarning(movieDict):
     earningDict = {}
     for key in movieDict.keys():
-        movieName = movieDict[key]
-        movieName = str(movieName).rstrip()
+        movieName = str(movieDict[key]).rstrip()
         queryString = url+movieName
         response = requests.get(queryString)
         html = response.text
-        checkForNone = re.search(regex2, html)
+        checkForNone = re.search(regex2, html) #seeing if boxoffice mojo couldn't find a movie title
+
         if (response.status_code == 200 and checkForNone == None):
             m = re.findall(regex,html)
             if (len(m)>0):
-                earningText = m[1]
+                if(len(m)>1):
+                    earningText = m[1]
+                else:
+                    earningText = m[0]
                 filterNum = re.findall(regex3,earningText)
-                #print (filterNum)
+
                 if (len(filterNum)>0):
                     a=filterNum
-                    #filterNum = re.findall(regex3,earningText)[0]
-                    # print("In that IF")
                 else:
                     filterNum = 0
             else:
@@ -44,11 +44,9 @@ def getMovieEarning(movieDict):
             finalRev = ""
             if (len(filterNum) >0):
                 for i in range(len(filterNum)):
-                    #print("Harry")
                     if (i == 0):
                         continue
                     else:
-                        #print(filterNum[i])
                         finalRev+= str(filterNum[i])
             if (finalRev != ""):
                 earningDict[movieName] = int(finalRev)
@@ -58,11 +56,11 @@ def getMovieEarning(movieDict):
 
 def writeToFile(tweetDict):
     j = json.dumps(tweetDict)
-    f = open("boxEarnings.json", 'w')
+    f = open("newBoxEarnings.json", 'w')
     f.write(j)
     f.close()
 
-movieDict = readMovieList('movielist.txt')
+movieDict = readMovieList('newFinalMovieRatings.txt')
 earningDict = getMovieEarning(movieDict)
 writeToFile(earningDict)
 print(earningDict)

@@ -1,3 +1,4 @@
+#getting budget and popularity info
 import json
 import requests
 
@@ -22,18 +23,17 @@ def getPopuarity(movieDict):
         response = requests.get(url)
         if (response.status_code == 200):
             response = json.loads(response.text)
-            popularity = response["popularity"]
-            popDict[movieDict[key]] = popularity
+            budget = response["budget"]
+            popDict[movieDict[key]] = budget
     return popDict
 
 def writeToFile (dictionary):
     j = json.dumps(dictionary)
-    f = open("moviePopularity.json", 'w')
+    f = open("newMovieBudget.json", 'w')
     f.write(j)
     f.close()
 
-movieDict = read("initialList.txt")
-#print(movieDict)
+movieDict = read("FinalList.txt")
 popDict = getPopuarity(movieDict)
 writeToFile(popDict)
 

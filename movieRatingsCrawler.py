@@ -27,7 +27,10 @@ def getMovieRatings(movieDict):
         if (info.status_code == 200):
             #changing text to a json dictionary
             info = json.loads(info.text)
-
+            #initializing to unknown and then setting after
+            rT = "N/A"
+            mT = "N/A"
+            imdbT = "N/A"
             if ("Ratings" in info.keys()):
                 ratings = info["Ratings"]
                 #based on length of the ratings list rotten tomatoes 
@@ -59,13 +62,13 @@ def getMovieRatings(movieDict):
     return ratingDict
 
 def writeToFile (dictionary):
-    filename = "movieRatings.txt"
+    filename = "newMovieRatings.txt"
     output = open(filename, 'w')
     for key in dictionary:
         output.write(str(key+ ','+ dictionary[key][0] + ',' + dictionary[key][1] + ',' + dictionary[key][2]))
         output.write('\n')
     output.close
 
-movieDict = readMovieList("movielist.txt")
+movieDict = readMovieList("newMovielist.txt")
 ratingsDict = getMovieRatings(movieDict)
 writeToFile(ratingsDict)

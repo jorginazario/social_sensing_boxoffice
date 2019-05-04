@@ -1,0 +1,224 @@
+Gone Girl,87,8.1,79
+Iron Man,93,7.9,79
+High Life,80,6.1,75
+Deadpool,84,8.0,65
+Thor: The Dark World,66,6.9,54
+London Fields,0,4.3,16
+Smallfoot,76,6.7,60
+Suburbicon,28,5.6,42
+Doctor Strange,89,7.5,72
+Bumblebee,92,6.9,66
+The Cold Light of Day,4,4.9,22
+Tell It to the Bees,67,4.7,55
+Pathfinder,10,5.4,29
+Adrift,70,6.6,56
+Kill the Messenger,77,7.0,60
+Upgrade,87,7.6,67
+The Smurfs 2,14,5.4,34
+Eighth Grade,99,7.5,90
+The Highwaymen,53,7.0,58
+Replicas,10,5.4,19
+The Avengers,92,8.1,69
+Spider-Man: Into the Spider-Verse,97,8.5,87
+Jurassic World: Fallen Kingdom,48,6.2,51
+Glass,37,6.8,42
+Deadpool 2,83,7.8,66
+Harry Potter and the Philosopher's Stone,81,7.6,64
+Instant Family,81,7.4,57
+Inception,86,8.8,74
+Veronica Mars,79,8.4,62
+Legend,61,7.0,55
+The Prodigy,45,5.9,45
+Den of Thieves,49,7.0,49
+Terminator Genisys,26,6.4,38
+Bird Box,62,6.7,51
+Thor,77,7.0,57
+The Wind That Shakes the Barley,89,7.5,82
+Loving Vincent,85,7.8,62
+Aquaman,65,7.2,55
+The Water Horse,74,6.5,71
+The Equalizer 2,51,6.7,50
+Roma,96,7.8,96
+Pet Sematary,50,6.6,38
+Little Women,91,7.3,87
+Tale of Tales,83,6.4,72
+Outlaw King,62,7.0,59
+Captain Marvel,78,7.2,64
+The Lego Movie 2: The Second Part,86,6.8,65
+The Wandering Earth,75,7.3,62
+Holmes & Watson,60,7.5,48
+Scooby-Doo 2: Monsters Unleashed,22,5.0,34
+Triple Threat,67,5.6,60
+The Ring Two,20,5.4,44
+Raw,91,7.0,81
+Black Panther,97,7.3,88
+Pitch Perfect 3,30,5.8,40
+Ben Is Back,81,6.8,66
+The Silence,92,8.0,79
+Fighting with My Family,93,7.5,68
+Mile 22,22,6.1,38
+Saw: The Final Chapter,9,5.6,24
+Johnny English Strikes Again,36,6.2,39
+What Men Want,46,4.6,49
+Bad Times at the El Royale,75,7.1,60
+The Lord of the Rings: The Return of the King,93,8.9,94
+Force Majeure,93,7.3,87
+Overlord,81,6.7,60
+Jigsaw,34,5.8,39
+Mandy,91,6.6,81
+Venom,29,6.8,35
+Wrong Turn 2: Dead End,70,5.5,35
+The Predator,32,5.4,48
+Odd Thomas,36,6.9,45
+Wonder Woman,93,7.5,76
+Don't Say a Word,24,6.3,38
+Goosebumps 2: Haunted Halloween,46,5.6,53
+Bohemian Rhapsody,61,8.1,49
+The Nutcracker and the Four Realms,33,5.5,39
+Guardians of the Galaxy Vol. 2,84,7.7,67
+13 Sins,62,6.3,44
+The Man Who Knew Too Much,91,7.5,78
+Tomb Raider,20,5.8,33
+Ladder 49,41,6.5,47
+The Possession of Hannah Grace,20,5.2,37
+Dumbo,98,7.3,96
+First Man,87,7.4,84
+Twilight,49,5.2,56
+Batman v Superman: Dawn of Justice,28,6.5,44
+Rough Night,44,5.2,51
+Friends with Kids,67,6.1,55
+The Maze Runner,65,6.8,57
+The Lord of the Rings: The Two Towers,95,8.7,87
+Ready Player One,72,7.5,64
+John Wick,87,7.3,68
+Miss Bala,87,6.5,79
+Us,94,7.4,81
+Annihilation,88,6.9,79
+Taken 3,12,6.0,26
+The Meg,46,5.7,46
+Transsiberian,93,6.7,72
+Trainspotting,90,8.2,83
+15 Minutes,32,6.1,34
+Secret in Their Eyes,39,6.3,45
+Shaun the Sheep Movie,99,7.4,81
+Anthropoid,66,7.2,59
+Maggie,60,5.6,52
+The First Purge,54,5.1,54
+POKÉMON Detective Pikachu,70,7.9,50
+The Paperboy,45,5.8,45
+If Beale Street Could Talk,95,7.3,87
+Personal Shopper,80,6.2,77
+A Wrinkle in Time,42,4.2,53
+The Incredible Hulk,67,6.7,61
+Breakthrough,60,5.7,47
+Die Hard,93,8.2,72
+Widows,91,7.0,84
+Anon,38,6.1,54
+Edge of Tomorrow,90,7.9,71
+A Bad Moms Christmas,30,5.5,42
+Captain America: The First Avenger,80,6.9,66
+Avengers: Infinity War,85,8.5,68
+The Girl in the Spider's Web,40,6.1,43
+Destroyer,73,6.3,62
+Planes,25,5.7,39
+Iron Man 2,73,7.0,57
+Hellboy,81,6.9,72
+Fifty Shades Freed,12,4.5,31
+The Imitation Game,90,8.0,73
+A Simple Favor,85,6.9,67
+Holiday,48,6.9,52
+A Quiet Place,95,7.6,82
+The Gunman,17,5.8,39
+Ironclad,42,6.2,42
+Cars,74,7.1,73
+Arctic,89,7.0,71
+The Dark Knight,94,9.0,84
+Toni Erdmann,93,7.4,93
+To All the Boys I've Loved Before,64,7.3,64
+X-Men: Days of Future Past,90,8.0,75
+Sicario: Day of the Soldado,63,7.1,61
+Fantastic Beasts: The Crimes of Grindelwald,37,6.7,52
+2046,85,7.5,78
+Death Wish,17,6.4,31
+Vice,66,7.2,61
+Harry Potter and the Goblet of Fire,88,7.7,81
+Mission: Impossible - Fallout,97,7.8,86
+Texas Chainsaw 3D,18,4.8,31
+The Tale of Despereaux,57,6.1,53
+Serenity,83,7.9,74
+Jason X,19,4.4,25
+The Sisters Brothers,86,7.0,78
+Pirates of the Caribbean: The Curse of the Black Pearl,79,8.0,63
+Star Wars,93,8.6,90
+The Nun,26,5.4,46
+Se7en,81,8.6,65
+The Favourite,93,7.7,90
+Escape Room,48,6.4,48
+Creed II,84,7.3,66
+Halloween,95,7.8,81
+The Matrix,88,8.7,73
+The Mule,70,7.1,58
+Fury,77,7.6,64
+BlacKkKlansman,96,7.5,83
+Green Book,78,8.3,69
+Blood Father,89,6.4,66
+Harry Potter and the Chamber of Secrets,82,7.4,63
+Shazam!,91,7.9,72
+It's a Wonderful Life,93,8.6,89
+How to Train Your Dragon: The Hidden World,90,7.7,71
+Iron Man 3,80,7.2,62
+X-Men: Apocalypse,48,7.0,52
+Captain America: Civil War,91,7.8,75
+Ralph Breaks the Internet,88,7.1,71
+Dragged Across Concrete,73,7.2,62
+Hunter Killer,36,6.6,43
+The Curious Case of Benjamin Button,71,7.8,70
+Teenage Mutant Ninja Turtles,22,5.8,31
+Executive Decision,64,6.4,62
+Night School,27,5.6,43
+Robin Hood,43,6.7,53
+Polar,24,6.3,19
+Cold Pursuit,69,6.5,57
+Truth or Dare,16,5.1,35
+Avengers: Age of Ultron,75,7.4,66
+The Transporter Refueled,16,5.2,32
+Police Academy 4: Citizens on Patrol,0,4.9,26
+Byzantium,65,6.5,66
+A Star Is Born,89,7.8,88
+Incredibles 2,94,7.7,80
+Justice League,40,6.5,45
+Whiteout,7,5.5,28
+Extremely Wicked,63,7.6,60
+The Railway Man,66,7.1,59
+Popstar: Never Stop Never Stopping,78,6.7,68
+Free State of Jones,46,6.9,53
+Master Z: Ip Man Legacy,73,6.5,73
+I,54,6.5,51
+Mary Poppins Returns,79,7.0,66
+Second Act,46,5.8,46
+Mary Queen of Scots,60,6.3,60
+Star Wars: The Last Jedi,91,7.2,85
+The Lord of the Rings: The Fellowship of the Ring,91,8.8,92
+Avengers: Endgame,95,8.9,78
+Maps to the Stars,62,6.2,67
+Alexander and the Terrible,61,6.2,54
+Avatar,82,7.8,83
+The Grinch,51,6.1,46
+The Emoji Movie,7,3.2,12
+Harry Potter and the Deathly Hallows: Part 2,96,8.1,87
+Battle of the Sexes,86,6.7,73
+Thor: Ragnarok,92,7.9,74
+Solo: A Star Wars Story,70,7.0,62
+Happy Death Day 2U,68,6.4,57
+Guardians of the Galaxy,91,8.1,76
+The Kid Who Would Be King,90,6.1,66
+Ant-Man and the Wasp,88,7.1,70
+Slow West,92,6.9,72
+Logan,93,8.1,77
+Friday the 13th Part 2,29,6.1,26
+Blade Runner 2049,87,8.0,81
+Free Solo,99,8.3,83
+Alita: Battle Angel,60,7.6,54
+Mortal Engines,27,6.2,44
+Far from the Madding Crowd,85,7.1,71
+The Isle,77,7.0,61

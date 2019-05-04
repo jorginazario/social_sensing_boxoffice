@@ -1,80 +1,80 @@
-299536,Avengers: Infinity War,2018-04-25,325.567
-495925,Doraemon the Movie: Nobita's Treasure Island,2018-03-03,208.489
-284054,Black Panther,2018-02-13,114.964
-376865,High Life,2018-11-07,113.475
-485811,Redcon-1,2018-09-28,108.265
-324857,Spider-Man: Into the Spider-Verse,2018-12-07,105.831
-424783,Bumblebee,2018-12-15,104.51
-543103,Kamen Rider Heisei Generations FOREVER,2018-12-22,91.495
-363088,Ant-Man and the Wasp,2018-07-04,89.537
-297802,Aquaman,2018-12-07,79.262
-375588,Robin Hood,2018-11-20,76.971
-453755,Arctic,2018-07-26,75.261
-404368,Ralph Breaks the Internet,2018-11-20,74.122
-504172,The Mule,2018-12-14,67.729
-335983,Venom,2018-09-28,64.866
-424694,Bohemian Rhapsody,2018-10-24,64.855
-428078,Mortal Engines,2018-11-27,62.895
-300681,Replicas,2018-10-25,60.062
-491418,Instant Family,2018-11-16,57.406
-347375,Mile 22,2018-08-16,56.862
-400650,Mary Poppins Returns,2018-12-13,54.544
-471507,Destroyer,2018-12-25,50.248
-442249,The First Purge,2018-07-04,50.128
-383498,Deadpool 2,2018-05-15,49.161
-487558,BlacKkKlansman,2018-07-30,47.662
-351286,Jurassic World: Fallen Kingdom,2018-06-06,46.795
-440161,The Sisters Brothers,2018-09-19,44.011
-395990,Death Wish,2018-03-02,43.007
-460885,Mandy,2018-09-13,42.053
-429197,Vice,2018-12-25,39.849
-466282,To All the Boys I've Loved Before,2018-08-16,39.747
-348350,Solo: A Star Wars Story,2018-05-15,39.399
-454227,Outlaw King,2018-11-09,38.953
-532321,Re: Zero kara Hajimeru Isekai Seikatsu - Memory Snow,2018-10-06,37.532
-353081,Mission: Impossible - Fallout,2018-07-13,37.486
-460019,Truth or Dare,2018-04-12,37.468
-396806,Anon,2018-05-03,37.216
-339380,On the Basis of Sex,2018-12-25,37.138
-557635,After Porn Ends 3,2018-10-30,36.141
-407451,A Wrinkle in Time,2018-03-08,36.005
-439079,The Nun,2018-09-05,35.716
-345887,The Equalizer 2,2018-07-19,35.455
-399402,Hunter Killer,2018-10-19,35.138
-438799,Overlord,2018-11-01,34.068
-489925,Eighth Grade,2018-01-19,33.849
-345940,The Meg,2018-08-09,33.201
-375262,The Favourite,2018-11-23,32.979
-447332,A Quiet Place,2018-04-03,32.645
-351044,Welcome to Marwen,2018-12-21,32.014
-369972,First Man,2018-10-11,31.049
-360920,The Grinch,2018-11-08,30.914
-463272,Johnny English Strikes Again,2018-09-13,30.788
-268896,Pacific Rim: Uprising,2018-03-21,30.783
-401478,Death Race: Beyond Anarchy,2018-01-30,30.769
-484247,A Simple Favor,2018-08-29,30.194
-455207,Crazy Rich Asians,2018-08-15,28.973
-449443,Den of Thieves,2018-01-18,28.97
-447200,Skyscraper,2018-07-11,28.682
-405774,Bird Box,2018-12-13,28.044
-426563,Holmes & Watson,2018-12-25,27.871
-400155,Hotel Transylvania 3: Summer Vacation,2018-06-28,27.839
-337167,Fifty Shades Freed,2018-01-17,27.038
-300668,Annihilation,2018-02-22,27.015
-498248,Mia and the White Lion,2018-12-26,25.893
-434555,The Possession of Hannah Grace,2018-11-29,25.601
-454293,Night School,2018-09-27,25.217
-401981,Red Sparrow,2018-02-28,25.112
-493922,Hereditary,2018-06-04,24.747
-407436,Mowgli: Legend of the Jungle,2018-11-25,23.781
-500664,Upgrade,2018-06-01,23.126
-445571,Game Night,2018-02-22,22.766
-401469,Widows,2018-11-06,22.664
-420814,Christopher Robin,2018-08-02,22.625
-505192,Shoplifters,2018-06-02,22.294
-336843,Maze Runner: The Death Cure,2018-01-10,22.251
-424139,Halloween,2018-10-18,22.174
-399360,Alpha,2018-08-17,21.743
-554792,Nakee 2,2018-10-18,21.567
-517814,Capernaum,2018-10-06,21.35
-475215,Mirai,2018-07-20,21.113
+299536,Avengers: Infinity War
+495925,Doraemon the Movie: Nobita's Treasure Island
+284054,Black Panther
+376865,High Life
+485811,Redcon-1
+324857,Spider-Man: Into the Spider-Verse
+424783,Bumblebee
+543103,Kamen Rider Heisei Generations FOREVER
+363088,Ant-Man and the Wasp
+297802,Aquaman
+375588,Robin Hood
+453755,Arctic
+404368,Ralph Breaks the Internet
+504172,The Mule
+335983,Venom
+424694,Bohemian Rhapsody
+428078,Mortal Engines
+300681,Replicas
+491418,Instant Family
+347375,Mile 22
+400650,Mary Poppins Returns
+471507,Destroyer
+442249,The First Purge
+383498,Deadpool 2
+487558,BlacKkKlansman
+351286,Jurassic World: Fallen Kingdom
+440161,The Sisters Brothers
+395990,Death Wish
+460885,Mandy
+429197,Vice
+466282,To All the Boys I've Loved Before
+348350,Solo: A Star Wars Story
+454227,Outlaw King
+532321,Re: Zero kara Hajimeru Isekai Seikatsu - Memory Snow
+353081,Mission: Impossible - Fallout
+460019,Truth or Dare
+396806,Anon
+339380,On the Basis of Sex
+557635,After Porn Ends 3
+407451,A Wrinkle in Time
+439079,The Nun
+345887,The Equalizer 2
+399402,Hunter Killer
+438799,Overlord
+489925,Eighth Grade
+345940,The Meg
+375262,The Favourite
+447332,A Quiet Place
+351044,Welcome to Marwen
+369972,First Man
+360920,The Grinch
+463272,Johnny English Strikes Again
+268896,Pacific Rim: Uprising
+401478,Death Race: Beyond Anarchy
+484247,A Simple Favor
+455207,Crazy Rich Asians
+449443,Den of Thieves
+447200,Skyscraper
+405774,Bird Box
+426563,Holmes & Watson
+400155,Hotel Transylvania 3: Summer Vacation
+337167,Fifty Shades Freed
+300668,Annihilation
+498248,Mia and the White Lion
+434555,The Possession of Hannah Grace
+454293,Night School
+401981,Red Sparrow
+493922,Hereditary
+407436,Mowgli: Legend of the Jungle
+500664,Upgrade
+445571,Game Night
+401469,Widows
+420814,Christopher Robin
+505192,Shoplifters
+336843,Maze Runner: The Death Cure
+424139,Halloween
+399360,Alpha
+554792,Nakee 2
+517814,Capernaum
+475215,Mirai
